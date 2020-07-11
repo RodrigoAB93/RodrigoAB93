@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment 
 
 - 📫 How to reach me:  
-      Linkedin: 
+     - Linkedin: 
       https://www.linkedin.com/in/rodrigo-almeida-bezerra/ 
-      Twitter: 
+     - Twitter: 
       https://twitter.com/digo_ab93
 
 <!--

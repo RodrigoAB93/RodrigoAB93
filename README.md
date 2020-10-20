@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on some personal projects 
 
-- 🌱 I’m currently learning web devlopment and data science  
+- 🌱 I’m currently learning web devlopment, artificial inteligence and data science  
 
 - 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment 
 

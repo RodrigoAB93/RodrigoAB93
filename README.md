@@ -15,7 +15,7 @@
      -> https://codepen.io/Rodrigo_ab  
      
 
- ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=radical)
+ ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)
 
 <!--
 **RodrigoAB93/RodrigoAB93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

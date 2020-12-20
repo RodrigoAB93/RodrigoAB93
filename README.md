@@ -4,17 +4,15 @@
 
 - 🌱 I’m currently learning web devlopment, artificial inteligence and data science  
 
-- 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment 
+- 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment  
 - 📫 How to reach me:  
      - Linkedin 
-      -> https://www.linkedin.com/in/rodrigo-almeida-bezerra/ 
+       ➡ https://www.linkedin.com/in/rodrigo-almeida-bezerra/ 
      - Twitter
-     -> https://twitter.com/digo_ab93 
-     - CodePen 
-     -> https://codepen.io/Rodrigo_ab  
-     
+       ➡ https://twitter.com/digo_ab93 
+   
 
- ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=5&theme=merko)]
+ ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=5&theme=merko&layout=compact)
 
  
 

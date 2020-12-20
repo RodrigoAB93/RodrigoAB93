@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning web devlopment, artificial inteligence and data science  
 
 - 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment  
-- 📫 How to reach me:  
-     - Linkedin 
-       ➡ https://www.linkedin.com/in/rodrigo-almeida-bezerra/ 
-     - Twitter
-       ➡ https://twitter.com/digo_ab93 
+- 📫 How to reach me:    <a href="httpshttps://www.linkedin.com/in/rodrigo-almeida-bezerra/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-almeida-bezerra" height="35" width="35" />
+  </a>       
+
+ 
    
 
  ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=5&theme=merko&layout=compact)

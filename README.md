@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning web devlopment, artificial inteligence and data science  
 
-- 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment 
+- 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=5&theme=merko)]
 
 - 📫 How to reach me:  
      - Linkedin 
@@ -16,7 +16,7 @@
      
 
  ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=8)]
+ 
 
 <!--
 **RodrigoAB93/RodrigoAB93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

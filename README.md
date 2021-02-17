@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning web devlopment, artificial inteligence and data science  
 
 - 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment  
-- 📫 How to reach me:    <a href="httpshttps://www.linkedin.com/in/rodrigo-almeida-bezerra/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-almeida-bezerra" height="35" width="35" />
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/rodrigo-almeida-bezerra/" target="_blank">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="rodrigo-almeida-bezerra" height="35" width="35" />
   </a>       
 
  

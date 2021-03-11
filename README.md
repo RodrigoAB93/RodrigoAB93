@@ -15,7 +15,7 @@
  ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=5&theme=merko&layout=compact)
 
  
-
+[![HitCount](http://hits.dwyl.com/RodrigoAB93/RodrigoAB93.svg)](http://hits.dwyl.com/RodrigoAB93/RodrigoAB93)
 <!--
 **RodrigoAB93/RodrigoAB93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

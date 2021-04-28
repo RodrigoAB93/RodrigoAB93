@@ -8,6 +8,10 @@
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/rodrigo-almeida-bezerra/" target="_blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="rodrigo-almeida-bezerra" height="35" width="35" />
   </a>       
+  
+  
+## GitHub Stats 
+ ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=5&theme=merko&layout=compact)  
 
  ## 🚀💻 Technologies & Tools 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -26,8 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
 
-## GitHub Stats 
- ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=5&theme=merko&layout=compact)  
 
 
  

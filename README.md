@@ -1,20 +1,21 @@
-### Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rodrigo  
+<h1 align="center" font-size=16pt> Hi, i'm Rodrigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 - 🔭 I’m currently working on some personal projects 
 
 - 🌱 I’m currently learning web devlopment, artificial inteligence and data science  
 
-- 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment  
+- 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment   
+
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/rodrigo-almeida-bezerra/" target="_blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="rodrigo-almeida-bezerra" height="35" width="35" />
   </a>       
   
   
-## GitHub Stats 
+## GitHub Status 
  ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=6&theme=merko&layout=compact)   
 <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAB93">
 
- ## 🚀💻 Technologies & Tools 
+ ## 🚀💻 Technologies and Tools 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)

@@ -11,7 +11,7 @@
   </a>       
   
   
-## GitHub Status 
+## GitHub Stats 
  ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=6&theme=merko&layout=compact)   
 <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAB93">
 

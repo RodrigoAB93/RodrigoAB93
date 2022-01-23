@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on some personal projects 
 
-- 🌱 I’m currently learning web devlopment, artificial inteligence and data science  
+- 🌱 I’m currently learning web development, artificial inteligence and data science  
 
-- 👯 I’m looking to collaborate on projects involving artificial intelligence and web devlopment   
+- 👯 I’m looking to collaborate on projects involving artificial intelligence and web development   
 
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/rodrigo-almeida-bezerra/" target="_blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="rodrigo-almeida-bezerra" height="35" width="35" />

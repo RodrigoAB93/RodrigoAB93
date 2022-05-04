@@ -9,12 +9,9 @@
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/rodrigo-almeida-bezerra/" target="_blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="rodrigo-almeida-bezerra" height="35" width="35" />
   </a>       
-  
-  
-## GitHub Stats 
- ![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=6&theme=merko&layout=compact)   
-<img src="https://github-profile-trophy.vercel.app/?username=RodrigoAB93">
 
+  
+![Rodrigo Almeida Bezerra](https://github-readme-stats.vercel.app/api?username=RodrigoAB93&show_icons=true&theme=merko&layout=compact)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAB93&langs_count=6&theme=merko&layout=compact)  
  ## 🚀💻 Technologies and Tools  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -38,11 +35,4 @@
 ![Redmine](https://img.shields.io/badge/-redmine-3A2D4E?style=flat-square&logo=redmine)
 ![Jira](https://img.shields.io/badge/-Jira-A5B2B3?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-A2B1F8?style=flat-square&logo=Trello)
-
-
-
- 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=RodrigoAB93" alt="RodrigoAB93" /></p>
-
-
 

@@ -1,5 +1,5 @@
-<h1 align="center" font-size=16pt> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2 px"> </h1>
-
+<h1 align="left" font-size=16pt> Hi, welcome 
+    
 - 🔭 I’m currently working on some personal projects 
 
 - 🌱 I’m currently learning web development, artificial inteligence and data science  

@@ -1,5 +1,6 @@
-<h1 align="center">Welcome 👋</h1>
-- 🌱 I’m currently learning **Data science/engineering, Software Development and Computer Science**
+<h1 align="center">Welcome 👋</h1> 
+
+- 🌱 I’m currently learning: Data science/engineering, Software Development and Computer Science
 
 - 👯 I’m looking to collaborate on **open source project about data science**
 

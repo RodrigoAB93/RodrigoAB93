@@ -3,7 +3,6 @@
 
 - 👯 I’m looking to collaborate on **open source project about data science**
 
-- 📫 How to reach me **rodrigoalmeidabezerra@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

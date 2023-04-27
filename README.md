@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=37&pause=500&color=0EF64D&background=00000090&multiline=true&repeat=false&width=1500&height=140&lines=Hello+World!;I+am+interested+in%3A+Data+Area%2C+Web+Development+and+Computer+Science;I'm+looking+to+collaborate+on+open+source+project)](https://git.io/typing-svg)
+Hello, 👋
+
+I am a mechatronics engineer with a postgraduate degree and a master's degree in Data Science and Big Data. 💻📈
+
+My experience in web development and participation in artificial intelligence projects have allowed me to develop practical and innovative solutions to complex problems. 💡💻
+
+As a volunteer in open source projects, I have learned to work in teams and manage projects. I am committed, dedicated, and capable of working under pressure to achieve high-quality results. I am always updating myself with the latest trends in technology and data science, and have a keen interest in technology, computer science, and development. 🔍🤖🌐
+
+My goal is to continue working in the data and development field, applying my knowledge to innovative projects that have a positive impact on society. My interest in technology, computer science, and development is constant, and I always seek to stay updated on the latest trends and industry news. Additionally, I have a great interest in science in general and enjoy keeping up with the latest discoveries and advances in various fields of knowledge. 🚀🔬📚🎥
+
+Thank you for visiting my profile. Feel free to contact me for any professional inquiries or just to say hello! 🙌
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -57,6 +57,6 @@ Thank you for visiting my profile. Feel free to contact me for any professional 
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
+<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 

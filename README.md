@@ -57,6 +57,6 @@ Thank you for visiting my profile. Feel free to contact me for any professional 
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
+<i>❝“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 

@@ -57,6 +57,6 @@ Thank you for visiting my profile. Feel free to contact me for any professional 
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   ❞</i>
+<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 

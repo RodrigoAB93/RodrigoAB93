@@ -57,6 +57,6 @@ Thank you for visiting my profile. Feel free to contact me for any professional 
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
+<i>❝An Apple laptop stinks. One 2001 iBook model used a glue that, after 12-18 months, may begin to smell like human body odor. It is so strong that repairs are difficult because the smell makes people nauseous.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 

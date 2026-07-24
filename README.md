@@ -59,6 +59,6 @@ Thank you for visiting my profile. Feel free to contact me for professional oppo
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
+<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 

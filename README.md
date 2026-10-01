@@ -59,6 +59,6 @@ Thank you for visiting my profile. Feel free to contact me for professional oppo
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
+<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
